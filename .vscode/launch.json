@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Pump/AnimeReccomendFilterProject",
-      "program": "c:/Users/Pump/AnimeReccomendFilterProject/build/Debug/outDebug",
+      "cwd": "c:/Users/Pump/AnimeReccomendFilterProject/code/src",
+      "program": "c:/Users/Pump/AnimeReccomendFilterProject/code/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
